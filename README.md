@@ -1,2 +1,0 @@
-# AguDamian
-my portfolio
